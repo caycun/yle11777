@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm yle</h1>
 <h3 align="center">A highschool student and planning to be a web developer on the future.</h3>
 
-- ⚡ Fun fact **I think i am funny**
+### About me 
+- 💻 Favorite programming language: Javascript
+- 👒 Favorite anime: One piece
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
