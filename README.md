@@ -2,6 +2,7 @@
 <h3 align="center">A highschool student and planning to be a web developer on the future.</h3>
 
 ### About me 
+- 👨 He/him 1️⃣3️⃣
 - 💻 Favorite programming language: Javascript
 - 👒 Favorite anime: One piece
 
