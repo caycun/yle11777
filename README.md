@@ -19,5 +19,5 @@
 <p><a href="https://www.buymeacoffee.com/yle"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yle" /></a></p><br><br>
 
 <h3 align="left">Recent Projects:</h3>
-<h5 href="https://github.com/yle-l2c/text-counter">Text Counter</h5>
+<a width="100" height="100" href="https://github.com/yle-l2c/text-counter">Text Counter</a>
 <p>A tool that counts characters, words, sentences and spaces with your given input.</p>
